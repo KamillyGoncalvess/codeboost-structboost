@@ -31,3 +31,7 @@ html {
   background-color: var(--gray-900);
   color: var(--gray-100);
 }
+
+::-webkit-scrollbar {
+  width: 0px;
+}
